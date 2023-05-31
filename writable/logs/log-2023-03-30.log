@@ -1,0 +1,84 @@
+CRITICAL - 2023-03-30 01:40:09 --> Undefined variable $datos
+in APPPATH\Controllers\CarreraController.php on line 9.
+ 1 APPPATH\Controllers\CarreraController.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'APPPATH\\Controllers\\CarreraController.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CarreraController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CarreraController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 03:18:15 --> Undefined variable $total_usuarios
+in APPPATH\Views\Carrera\carreras.php on line 32.
+ 1 APPPATH\Views\Carrera\carreras.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total_usuarios', 'APPPATH\\Views\\Carrera\\carreras.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Carrera\\carreras.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Carrera/carreras', [], true)
+ 5 APPPATH\Controllers\CarreraController.php(9): view('Carrera/carreras')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CarreraController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CarreraController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 03:18:18 --> Undefined variable $total_usuarios
+in APPPATH\Views\Carrera\carreras.php on line 32.
+ 1 APPPATH\Views\Carrera\carreras.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total_usuarios', 'APPPATH\\Views\\Carrera\\carreras.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Carrera\\carreras.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Carrera/carreras', [], true)
+ 5 APPPATH\Controllers\CarreraController.php(9): view('Carrera/carreras')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CarreraController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CarreraController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 03:18:19 --> Undefined variable $total_usuarios
+in APPPATH\Views\Carrera\carreras.php on line 32.
+ 1 APPPATH\Views\Carrera\carreras.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total_usuarios', 'APPPATH\\Views\\Carrera\\carreras.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Carrera\\carreras.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Carrera/carreras', [], true)
+ 5 APPPATH\Controllers\CarreraController.php(9): view('Carrera/carreras')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CarreraController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CarreraController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 03:18:22 --> Undefined variable $total_usuarios
+in APPPATH\Views\Carrera\carreras.php on line 32.
+ 1 APPPATH\Views\Carrera\carreras.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total_usuarios', 'APPPATH\\Views\\Carrera\\carreras.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Carrera\\carreras.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Carrera/carreras', [], true)
+ 5 APPPATH\Controllers\CarreraController.php(9): view('Carrera/carreras')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CarreraController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CarreraController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 03:18:23 --> Undefined variable $total_usuarios
+in APPPATH\Views\Carrera\carreras.php on line 32.
+ 1 APPPATH\Views\Carrera\carreras.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total_usuarios', 'APPPATH\\Views\\Carrera\\carreras.php', 32)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Carrera\\carreras.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Carrera/carreras', [], true)
+ 5 APPPATH\Controllers\CarreraController.php(9): view('Carrera/carreras')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CarreraController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CarreraController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 03:19:24 --> Undefined variable $total_usuarios
+in APPPATH\Views\Carrera\carreras.php on line 33.
+ 1 APPPATH\Views\Carrera\carreras.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total_usuarios', 'APPPATH\\Views\\Carrera\\carreras.php', 33)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Carrera\\carreras.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Carrera/carreras', [], true)
+ 5 APPPATH\Controllers\CarreraController.php(9): view('Carrera/carreras')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CarreraController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CarreraController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 03:19:26 --> Undefined variable $total_usuarios
+in APPPATH\Views\Carrera\carreras.php on line 33.
+ 1 APPPATH\Views\Carrera\carreras.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total_usuarios', 'APPPATH\\Views\\Carrera\\carreras.php', 33)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Carrera\\carreras.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Carrera/carreras', [], true)
+ 5 APPPATH\Controllers\CarreraController.php(9): view('Carrera/carreras')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CarreraController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CarreraController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

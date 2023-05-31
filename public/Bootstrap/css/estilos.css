@@ -1,0 +1,87 @@
+body {
+  background-image: url('../../img/lib3.jpg');
+}
+
+.jumbotron {
+  background-image: url('../../img/lib16.jpg');
+  color: white;
+  font-family: fantasy;
+
+}
+
+.panel-heading {
+  background-color: #c99c49 !important;
+  color: black !important;
+}
+
+.panel-body {
+  color: #00000 !important;
+}
+
+.navbar {
+  background-color: #c99c49;
+}
+
+.navbar-header {
+  color: white !important;
+}
+
+.navbar-brand:link, .navbar-brand:visited {
+  color: black !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active {
+  color: white !important;
+}
+
+#navbar li a:link, #navbar li a:visited {
+  color: black !important;
+}
+
+#navbar li a:hover, #navbar li a:active {
+  color: white !important;
+}
+
+/* make sidebar nav vertical */
+@media (min-width: 768px) {
+  .sidebar-nav .navbar .navbar-collapse {
+    padding: 10px;
+    font-size-adjust: auto;
+    border-left: 3px solid #bcbcbc;
+    border-right: 3px solid #bcbcbc;
+    border-top: 3px solid #bcbcbc;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  .sidebar-nav .navbar ul {
+    font-size-adjust: auto;
+    float: none;
+  }
+  .sidebar-nav .navbar ul:not {
+    font-size-adjust: auto;
+    display: block;
+  }
+  .sidebar-nav .navbar li {
+    font-size-adjust: auto;
+    color: black ;
+    background: white;
+  -webkit-transition: all 1ms ease-in-out;
+-moz-transition: all 1ms ease-in-out;
+-ms-transition: all 1ms ease-in-out;
+-o-transition: all 1ms ease-in-out;
+transition: all 1ms ease-in-out;
+    float: none;
+    display: block;
+  }
+  .sidebar-nav .navbar li a {
+    font-size-adjust: auto;
+    color: black;
+    background: ;
+    padding-top: 12px;
+    padding-bottom:12px;
+  }
+  .sidebar-nav .submenu li a {
+    background-clip: border-box;
+    background-color: #c99c49;
+  }
+}
